@@ -6,4 +6,3 @@ print("Hello, world!")
 # c = "Hello!" - str
 # d = True - bool
 # e = None - NoneType
-
